@@ -1,7 +1,75 @@
-#parrafo{
-    color: black;
+#parrafo {
+    color: #000000;
 }
 
-.container {
+/** Estilos de contenedores */
+
+/* Modulo Login */
+.containerLogin {
+
+    width: 800px;
+    height: 800px;
+
     margin: 20%;
+    border: 5px solid black;
+}
+
+/* Modulo Registro */
+.containerRegistro {
+
+    width: 800px;
+    height: 800px;
+
+    margin: 20%;
+    border: 5px solid black;
+}
+
+/* Modulo Administracion */
+.containerAdministracion {
+
+    width: 800px;
+    height: 800px;
+
+    margin: 20%;
+    border: 5px solid black;
+}
+
+/* Modulo Usuario */
+.containerUsuario {
+
+    width: 800px;
+    height: 800px;
+
+    margin: 20%;
+    border: 5px solid black;
+}
+
+/* Modulo Prestamo */
+.containerPrestamo {
+
+    width: 800px;
+    height: 800px;
+
+    margin: 20%;
+    border: 5px solid black;
+}
+
+
+
+.alertIcon {
+    height: 30px;
+    width: 30px;
+
+    margin: 5px;
+}
+
+.alert {
+    margin: 20px;
+}
+
+.Title {
+
+    font-size: 30px;
+    text-align: center;
+    border: 5px solid black;
 }
